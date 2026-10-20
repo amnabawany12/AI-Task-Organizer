@@ -1,0 +1,31 @@
+
+.stApp {
+    background-color: #fff9fc;
+}
+
+h1 {
+    color: #9b4d79;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+}
+
+.stTextArea textarea {
+    border-radius: 12px;
+    border: 1px solid #e8b8d0;
+}
+
+.stButton button {
+    background-color: #b85c8e;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 22px;
+}
+
+.stButton button:hover {
+    background-color: #98456f;
+    color: white;
+}
